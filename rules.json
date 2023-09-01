@@ -1,0 +1,9 @@
+[
+    {
+        "name": "t1",
+        "input_dir": "C:\\Users\\silas\\Desktop",
+        "output_dir": "C:\\Users\\silas\\Desktop\\hej",
+        "ext": "url",
+        "enabled": false
+    }
+]
